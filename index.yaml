@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  pf9-demo:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-04T14:25:18.576819-04:00
+    description: A Helm chart for Kubernetes
+    digest: 67847d353c76ee8f5d39ae766f6f9acc3df77d206529da4f6f4b8fdc2aba8c55
+    name: pf9-demo
+    urls:
+    - https://sir-rob.github.io/pf9-helm-demo/pf9-demo-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-04-04T14:25:18.573239-04:00
